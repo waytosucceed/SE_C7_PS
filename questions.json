@@ -1,0 +1,233 @@
+{
+  "heading": "Addition, Subtraction, Multiplication and Division of Integers",
+  "topics": [
+    {
+      "heading": "Addition, Subtraction, Multiplication and Division of Integers",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "Smallest two digit integer is ___.",
+          "options": [
+            { "text": "0" },
+            { "text": "9" },
+            { "text": "+99" },
+            { "text": "-99" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 2,
+          "question": "Integer contains zero, _____ and ____. ",
+          "options": [
+            { "text": "Whole numbers, natural numbers" },
+            { "text": "all non negative numbers, all positive numbers" },
+            { "text": "all positive numbers and all negative numbers" },
+            { "text": "None of the above" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 3,
+          "question": "Arrange in ascending order:<br> -12, 12, -15, 3, 7.",
+          "options": [
+            { "text": "-12, -15, 3, 7, 12" },
+            { "text": "-15, 12, -12, 3, 7" },
+            { "text": "-15, -12, 7, 3, 12" },
+            { "text": "-15, -12, 3, 7, 12" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 4,
+          "question": "What comes between -20 and -16 on a number line?",
+          "options": [
+            { "text": "-15" },
+            { "text": "-17" },
+            { "text": "0" },
+            { "text": "-21" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 5,
+          "question": "Sign on simplification is _____ (of the following image).<br><img width='70%' src='./assests/images/question/1.jpg'>",
+          "options": [
+            { "text": "positive" },
+            { "text": "negative" },
+            { "text": "zero" },
+            { "text": "Information is insufficient" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 6,
+          "question": "Which number is the opposite of 10?",
+          "options": [
+            { "text": "-10" },
+            { "text": "0" },
+            { "text": "10" },
+            { "text": "100" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 7,
+          "question": "Which of the following is true about the product of any integer and one?",
+          "options": [
+            { "text": "It is always one" },
+            { "text": "It equals the integer" },
+            { "text": "It is always zero" },
+            { "text": "It is always negative" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 8,
+          "question": "Find : (-8) - (-5)",
+          "options": [
+            { "text": "-13" },
+            { "text": "-3" },
+            { "text": "+3" },
+            { "text": "+13" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 9,
+          "question": "Which option gives the smallest result?",
+          "options": [
+            { "text": "(-3) + (+8)" },
+            { "text": "(+5) - (-2)" },
+            { "text": "(+7) - (+10)" },
+            { "text": "(-9) + (+4)" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 10,
+          "question": "Find the missing integer:<br> (-12) + ? = 3.",
+          "options": [
+            { "text": "+9" },
+            { "text": "-9" },
+            { "text": "-15" },
+            { "text": "+15" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 11,
+          "question": "Find:>br> 0 ÷ (-3) =__ ?",
+          "options": [
+            { "text": "0" },
+            { "text": "-3" },
+            { "text": "+3" },
+            { "text": "None of the above" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 12,
+          "question": "Simplify: <br>(-9) + (+5) - (-3).",
+          "options": [
+            { "text": "+6" },
+            { "text": "-1" },
+            { "text": "+1" },
+            { "text": "-6" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 13,
+          "question": "Solve :<br> (-12) × (-3).",
+          "options": [
+            { "text": "-32" },
+            { "text": "+32" },
+            { "text": "-36" },
+            { "text": "+36" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 14,
+          "question": "Find: (-45) ÷ (-5) = __ .",
+          "options": [
+            { "text": "-9" },
+            { "text": "+9" },
+            { "text": "-50" },
+            { "text": "+50" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 15,
+          "question": "Simplify : [(-8) × (+5)] ÷ (-10)",
+          "options": [
+            { "text": "-40" },
+            { "text": "+40" },
+            { "text": "+10" },
+            { "text": "+4" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 16,
+          "question": "Which of the following option has the same value as : [(-9) × (-10)] ÷ (-2)",
+          "options": [
+            { "text": "[7 - (-2)] × (+3)" },
+            { "text": "[(-12) - (-4)] × (-7)" },
+            { "text": "[19 - (-8)] × (-2)" },
+            { "text": "[13 - (-2)] × (-3)" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 17,
+          "question": "Value of [(42 - (-4)) ÷ (-2)] × (-9)",
+          "options": [
+            { "text": "-203" },
+            { "text": "+207" },
+            { "text": "+209" },
+            { "text": "-211" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 18,
+          "question": "A hiker ascends 15 meters per hour for 4 hours, then descends 10 meters per hour for 3 hours. What is the final height of the hiker?",
+          "options": [
+            { "text": "30 meters" },
+            { "text": "36 meters" },
+            { "text": "42 meters" },
+            { "text": "45 meters" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 19,
+          "question": "A diver descends 12 meters below sea level every hour. If the diver continues this descent for 5 hours and then ascends 3 meters every hour for the next 2 hours, what is the diver’s final position relative to sea level?",
+          "options": [
+            { "text": "-42 meters" },
+            { "text": "-48 meters" },
+            { "text": "-54 meters" },
+            { "text": "-60 meters" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 20,
+          "question": "A submarine starts at a depth of 20 meters below sea level. It then descends 5 meters every minute for 3 minutes. Finally, it ascends 2 meters every minute for 5 minutes. What is the submarine's final position relative to sea level?",
+          "options": [
+            { "text": "+20 meters" },
+            { "text": "-25 meters" },
+            { "text": "+25 meters" },
+            { "text": "-20 meters" }
+          ],
+          "answer": 1
+        }
+      ]
+      
+      
+    
+    }
+  ]
+}
